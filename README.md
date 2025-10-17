@@ -1,2 +1,3 @@
 # MiPrimerRepo
-Este es mi primer repositorio de prueba de introducción a la programación
+Autor: Jhon Anthony Cuenca Lalangui
+Fecha: 16-10-2025
